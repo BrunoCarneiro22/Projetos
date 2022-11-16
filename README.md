@@ -1,3 +1,3 @@
 # Projetos
-estudos
-Exemplos e estudos em linguagem de programção JS
+Estudose
+Exemplos em linguagem de programção JS
